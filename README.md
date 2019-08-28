@@ -1,4 +1,4 @@
-# 翻译书 JavaScriptNotesForProfessionals
+## 翻译书 JavaScriptNotesForProfessionals
 
 ### 第一章节 JavaScript 入门
 
@@ -50,7 +50,7 @@
 
 ### 第五章节 Console控制台
 
-#### 5.1章节 测量时间-console.time()
+#### 5.1章节 测量时间 - console.time()
 
 #### 5.2章节 格式化console的输出
 
@@ -264,7 +264,7 @@
 
 #### 13.5章节 Object.assign
 
-#### 13.6章节 Object rest/spread 
+#### 13.6章节 对象剩余/展开
 
 #### 13.7章节 Object.defineProperty
 
@@ -294,7 +294,7 @@
 
 #### 13.20章节 具有特殊字符或保留字的属性
 
-#### 13.21章节 创建一个Iterable对象
+#### 13.21章节 创建一个可迭代对象
 
 #### 13.22章节 迭代对象条目 -  Object.entries（）
 
@@ -498,7 +498,7 @@
 
 #### 27.1章节 标准函数原型
 
-#### 27.2章节 Object.key and Object.prototype.key两者之间的区别
+#### 27.2章节 Object.key 和 Object.prototype.key两者之间的区别
 
 #### 27.3章节 原型继承
 
